@@ -1,2 +1,2 @@
 # Cross-vs-Zero
-ncurses "tic tac toe" game
+ncurses "tic tac toe" game, minimax AI
